@@ -7,8 +7,8 @@ console.log(othervalues);
 
 // 2
 const user = {
-    name: 'Jonpulat',
-    lastname: 'Ravshanov',
+    name: 'Jahongir',
+    lastname: 'Xolmirzayev',
     age: 16,
 }
 
